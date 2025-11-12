@@ -1,4 +1,11 @@
+/.idea
 /.vscode
+/Backup
 /Content
 /Intermediate
 /Saved
+/Plugins/ArcGISMapsSDK/Content
+/Plugins/ArcGISMapsSDK/Extras
+/Plugins/ArcGISMapsSDK/Intermediate
+/Plugins/ArcGISMapsSDK/Legal
+/Plugins/ArcGISMapsSDK/Shaders
