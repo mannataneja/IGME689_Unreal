@@ -1,0 +1,26 @@
+[
+	{
+		"file": "D:\\Unreal 5\\IGME689_Unreal\\FPS\\Source\\FPS\\FPS.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal 5\\IGME689_Unreal\\FPS\\.vscode\\compileCommands_Default\\FPS.1.rsp"
+		],
+		"directory": "D:\\Program Files\\UE 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal 5\\IGME689_Unreal\\FPS\\Source\\FPS\\FPS.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal 5\\IGME689_Unreal\\FPS\\.vscode\\compileCommands_Default\\FPS.1.rsp"
+		],
+		"directory": "D:\\Program Files\\UE 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal 5\\IGME689_Unreal\\FPS\\Source\\FPS\\FPS.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal 5\\IGME689_Unreal\\FPS\\.vscode\\compileCommands_Default\\FPS.1.rsp"
+		],
+		"directory": "D:\\Program Files\\UE 5.5\\UE_5.5\\Engine\\Source"
+	}
+]
